@@ -1,3 +1,5 @@
+# Day 1: Linux and Git
+
 Git is a tool that tracks changes to files over time, most commonly used for code.
 
 WSL stands for Windows Subsystem for Linux.

@@ -1,4 +1,4 @@
-# Day 2
+# Day 2: Cloud Fundamentals
 
 What is Cloud?
 Accessed server over the internet for software, storage.
